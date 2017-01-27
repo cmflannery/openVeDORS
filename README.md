@@ -15,3 +15,9 @@ Do it. But do it well.
 
 ## Usage
 TBD
+
+## References and Links
+Informal list of references and links used to build openVeDORS. This list will be updated into a proper references section for the first release.
+
+1. http://www.sciencedirect.com/science/article/pii/S1000936107600053
+1. http://alnaspaceprogram.org/studies/rocketSizing/rocket_designer.pdf
